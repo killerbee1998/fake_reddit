@@ -1,0 +1,17 @@
+.email{
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+	/*justify-content: space-evenly;*/
+	color: #ffffff;
+	background-color: rgb(50,50,50);
+	margin-bottom: 10px;
+}
+.password{
+	text-align: center;
+
+}
+#submit{
+	text-align: center;
+	margin-top: 10px;
+}
